@@ -8,4 +8,3 @@ adding 3 line!!!
 }
 
 add func from master
-add sec func from master
