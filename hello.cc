@@ -12,4 +12,3 @@ add 2 line from dev
 }
 
 add func from master
-add sec func from master
