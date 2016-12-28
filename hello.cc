@@ -10,3 +10,5 @@ adding 3 line!!sdfasd !
 }
 
 add func from master
+
+add some from visual studio code!
